@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-accordion-component/static/css/main.e6c13ad2.css",
-    "main.js": "/react-accordion-component/static/js/main.2603dafd.js",
+    "main.css": "/react-accordion-component/static/css/main.557fe053.css",
+    "main.js": "/react-accordion-component/static/js/main.c2f6cf8e.js",
     "index.html": "/react-accordion-component/index.html",
-    "main.e6c13ad2.css.map": "/react-accordion-component/static/css/main.e6c13ad2.css.map",
-    "main.2603dafd.js.map": "/react-accordion-component/static/js/main.2603dafd.js.map"
+    "main.557fe053.css.map": "/react-accordion-component/static/css/main.557fe053.css.map",
+    "main.c2f6cf8e.js.map": "/react-accordion-component/static/js/main.c2f6cf8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2603dafd.js"
+    "static/css/main.557fe053.css",
+    "static/js/main.c2f6cf8e.js"
   ]
 }
